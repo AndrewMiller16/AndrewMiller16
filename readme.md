@@ -35,7 +35,7 @@
 | GraphQL | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | [GraphQL](https://graphql.org) |
 | PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | [PostgreSQL](https://www.postgresql.org) |
 | MongoDB | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | [MongoDB](https://www.mongodb.com) |
-
+etc.........
 ---
 
 ## Featured Projects
